@@ -1,5 +1,3 @@
-Link a játékhoz: https://scratch.mit.edu/projects/348881790/
-
 
 ![image](https://github.com/Syphon8r/MyThings.shush/assets/161064801/a097f4ca-6222-45e5-abea-324815eb5588)
 
@@ -27,4 +25,6 @@ A játék alatt a **Peer Gynt [cYsmix]** című dal szól, amely meghatározza a
 Kerüld el az akadályokat, tartsd életben a karaktered, és érd el a legjobb rangot!
 
 Élvezd a játékot! 🚀
+
+Link: https://scratch.mit.edu/projects/348881790/
 
