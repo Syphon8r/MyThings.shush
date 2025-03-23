@@ -26,5 +26,5 @@ Kerüld el az akadályokat, tartsd életben a karaktered, és érd el a legjobb 
 
 Élvezd a játékot! 🚀
 
-Link: https://scratch.mit.edu/projects/348881790/
+Link: https://scratch.mit.edu/projects/1135711467/
 
